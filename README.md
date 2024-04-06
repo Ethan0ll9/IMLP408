@@ -16,3 +16,7 @@ Machine Learning
 * [3.4_Categorical_features](http://localhost:8888/notebooks/NTU_IMLP408/IMLP408/Unit03/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb)<br>
 * [3.5_Prepocessing](http://localhost:8888/notebooks/NTU_IMLP408/IMLP408/Unit03/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb)<br>
 * [3.6_scikit_learn_Basic](http://localhost:8888/notebooks/NTU_IMLP408/IMLP408/Unit03/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb)
+
+## Unit 4 
+### HW
+* [Linear Regression](http://localhost:8888/notebooks/Owner/IMLP408/Unit04/Linear%20Regression_HW.ipynb)
