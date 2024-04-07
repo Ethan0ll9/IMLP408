@@ -20,3 +20,8 @@ Machine Learning
 ## Unit 4 
 ### HW
 * [Linear Regression](http://localhost:8888/notebooks/Owner/IMLP408/Unit04/Linear%20Regression_HW.ipynb)
+
+## Unit 5 
+### HW
+* [5.2_Logistic regression實戰](http://localhost:8888/notebooks/NTU_IMLP408/IMLP408/Unit05/Unit05_1/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)
+* [5.6_SVM實戰](http://localhost:8888/notebooks/NTU_IMLP408/IMLP408/Unit05/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)
