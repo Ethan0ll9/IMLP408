@@ -25,3 +25,8 @@ Machine Learning
 ### HW
 * [5.2_Logistic regression實戰](http://localhost:8888/notebooks/NTU_IMLP408/IMLP408/Unit05/Unit05_1/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)
 * [5.6_SVM實戰](http://localhost:8888/notebooks/NTU_IMLP408/IMLP408/Unit05/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)
+
+## Unit 6 
+### HW
+* [ConfusionMatrix_實戰](http://localhost:8888/notebooks/NTU_IMLP408/IMLP408/Unit06/1.3_ConfusionMatrix_%E5%AF%A6%E6%88%B0.ipynb)
+* [Ensemble實戰](http://localhost:8888/notebooks/NTU_IMLP408/IMLP408/Unit06/2.3_Ensemble%E5%AF%A6%E6%88%B0.ipynb)
